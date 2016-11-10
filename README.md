@@ -1,5 +1,7 @@
 # node-source-scan
 
+Extract a part of a file based on start and end line numbers.
+
 ## Usage
 
 ```js
