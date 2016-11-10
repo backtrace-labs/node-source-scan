@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "extract source code segments based on line numbers",
   "main": "index.js",
-  "author": "Andrew Kelley <superjoe30@gmail.com>",
+  "author": "Andrew Kelley <akelley@backtrace.io>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:backtrace-labs/node-source-scan.git"
+  },
   "dependencies": {
     "streamsink": "~1.2.0"
   },
